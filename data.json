@@ -1,0 +1,27 @@
+[
+    {
+        "season":2008,
+        "city":"Mumbai",
+        "total_runs":150
+    },
+    {
+        "season":2008,
+        "city":"Delhi",
+        "total_runs":180
+    },
+    {
+        "season":2009,
+        "city":"Kolkata",
+        "total_runs":200
+    },
+    {
+        "season":2009,
+        "city":"Chennai",
+        "total_runs":175
+    },
+    {
+        "season":2010,
+        "city":"Bangalore",
+        "total_runs":190
+    }
+]
